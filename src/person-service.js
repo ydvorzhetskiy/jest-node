@@ -20,3 +20,5 @@ class PersonService {
         // TODO: insert id exist
     }
 }
+
+module.exports = PersonService;

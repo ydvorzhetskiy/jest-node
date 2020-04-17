@@ -20,3 +20,5 @@ class PersonUI {
 
     }
 }
+
+module.exports  = PersonUI;
