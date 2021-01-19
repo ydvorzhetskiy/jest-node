@@ -11,13 +11,13 @@ class PersonService {
     }
 
     deleteByName(name) {
-        // TODO: delete by namr
+        // TODO: delete by name
     }
 
     save(person) {
         // TODO: find if exists
-        // TODO: update if exist
-        // TODO: insert id exist
+        // TODO: update if exists
+        // TODO: insert if not exist
     }
 }
 
